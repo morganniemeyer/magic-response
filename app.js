@@ -1,22 +1,22 @@
 const submit = document.getElementById('submit');
-const questionContainer = document.getElementById('personal-response');
+const questionContainer = document.getElementById('question');
 const fortuneContainer = document.getElementById('fortune');
 const results = document.getElementById('results');
 const answers = [
     'Yes, definitely',
-    'It is certain',
-    'It is decidedly so',
-    'Without a doubt',
-    'You may rely on it',
+    'It is certainly not great',
+    'It is going to be fantastic',
+    'Without a doubt a thing',
+    'You may rely on it, heavily',
     'As I see it, yes',
-    'Most Likely',
-    'Outlook good',
-    'Signs point to yes',
-    'Reply hazy, try again',
-    'Ask again later',
-    'Better not tell you now',
-    'Cannot predict now',
-    'Concentrate and ask again',
+    'Most Likely Maybe',
+    'Outlook Inconclusive',
+    'Signs point to a $%#!show',
+    'Reply hazy, try something new',
+    'Ask again never',
+    'Better not noooo',
+    'Cannot predict, too many variables',
+    'Concentrate and do better',
     'Don’t count on it',
     'My reply is no',
     'My sources say no',
